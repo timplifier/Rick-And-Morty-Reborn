@@ -1,0 +1,7 @@
+[versions]
+minSdk = "33"
+compileSdk = "33"
+targetSdk = "33"
+debugApplicationIdSuffix = ".debug"
+baseNamespace = "org.timplifier.rickandmortyreborn"
+kotlinJvmTarget = "17"
